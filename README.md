@@ -1,6 +1,6 @@
 <!-- ====== HEADER / BANNER ====== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/banner.png" alt="banner" />
+  <img src="1769718563862.jpeg" alt="banner" />
 </p>
 
 <h1 align="center"><b>Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Jim </h1>
